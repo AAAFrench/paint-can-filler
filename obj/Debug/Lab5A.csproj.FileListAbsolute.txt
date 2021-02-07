@@ -1,0 +1,10 @@
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\bin\Debug\Lab5A.exe.config
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\bin\Debug\Lab5A.exe
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\bin\Debug\Lab5A.pdb
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.csprojAssemblyReference.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.Form1.resources
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.Properties.Resources.resources
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.csproj.GenerateResource.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.csproj.CoreCompileInputs.cache
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.exe
+C:\Users\Athellor\Documents\School\Programming in .NET\Projects\COMP10204\Lab5A\obj\Debug\Lab5A.pdb
